@@ -48,7 +48,7 @@
 }
 
 .header__description {
-  font-family: "Noto Serif", "Times New Roman" serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
@@ -101,7 +101,7 @@
   background-color: #0a2750;
   padding: 100px 80px 215px;
   background-image: url(../images/background_recipes.svg);
-  position: center;
+  position: relative;
   background-size: cover;
 }
 
@@ -117,7 +117,7 @@
 .recipes__subtitle {
   margin: 0 0 80px;
   max-width: 438px;
-  font-family: "Noto Serif", "Times New Roman" serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
 }
