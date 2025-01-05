@@ -138,8 +138,12 @@
   margin-top: 24px;
 }
 
-ul {
+.ul {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.iframe {
+  border: none;
 }
