@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-My future plans are to complete the final part of the project the forth block to make the project more functional.
+The web site could be improved by adding a section where customers can order online and pay for there orders directly on the web site.
