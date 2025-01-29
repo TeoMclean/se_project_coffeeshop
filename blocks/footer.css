@@ -17,6 +17,9 @@
 
 .footer__column-heading {
   margin: 0 0 20px;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .footer__list {
